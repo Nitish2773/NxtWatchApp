@@ -1,5 +1,6 @@
-(https://nitishnxtwatch.ccbp.tech)
+NxtWatchApp is a modern web application developed using React, Node.js, HTML, CSS, and JavaScript. It serves as a platform for users to discover, watch, and save videos across different categories.NxtWatchApp offers a comprehensive video streaming and saving experience, designed to cater to users interested in diverse video content, from entertainment to gaming. Its intuitive interface and robust features make it a go-to platform for video enthusiasts.
 
+(https://nitishnxtwatch.ccbp.tech)
 
 
 https://github.com/user-attachments/assets/0fd81acd-8305-44ec-a183-9ba2c1db72ee
